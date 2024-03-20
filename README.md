@@ -19,6 +19,10 @@ A simple clean application that serves as a digital assistant for note taking
 When in need for a quick place to store some remainders/notes, just open the application.
 
 
+https://github.com/Wormhole616/Note_taker/assets/144727575/c508e34b-b124-4534-a2e2-8ee46cadb8f5
+
+
+
 ## Contribution 
 Gustavo Duque
 
